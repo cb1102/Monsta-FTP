@@ -68,8 +68,8 @@ $lang_btn_cancel = "Annuler";
 $lang_btn_ok = "OK";
 $lang_btn_new_folder = "Nouveau Dossier";
 $lang_btn_new_file = "Nouveau Fichier";
-$lang_btn_upload_file = "Téléversé un Fichier";
-$lang_btn_upload_files = "Téléversé des Fichiers";
+$lang_btn_upload_file = "Téléverser un Fichier";
+$lang_btn_upload_files = "Téléverser des Fichiers";
 $lang_btn_upload_repeat = "Répéter le téléversement";
 $lang_btn_upload_folder = "Téléverser le Dossier";
 
